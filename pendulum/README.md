@@ -1,3 +1,3 @@
-# paul-trap
+# inversePendulum
 Solving the Paul Trap EOM (6 1st-ODE)
-A ‘Paul Trap’ is one of several devices that use specially shaped electrostatic and electromagnetic fields to trap charged particles (or ‘ions’) (see, e.g. Major et al (2005) for more information). It has a number of applications: for example, as a mass spectrometer (used in chemical and biochemical analysis); or as a component in experimental quantum computers. The ions inside a particle trap are continuously moving, and follow very complicated orbits. The goal of this problem is to analyze the motion of a single charged particle inside a Paul trap.
+Parametrically excited inverse pendulum: the pivot point moves vertically with a displacement x = X_0*sin(Omega*t). The goal of this problem is to show that at an appropriate frequency Omega the inverted pendulum is stable.
