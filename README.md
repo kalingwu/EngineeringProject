@@ -1,2 +1,2 @@
 # EngineeringProject
-Proje
+Projects done for engineering coursework
